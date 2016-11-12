@@ -1,9 +1,5 @@
 # Die Kontextmaschine
 
-<iframe src="https://martinvirtel.github.io/kontextmaschine/build/" style="width: 100%; height: 300px; scrolling: no">
-</iframe>
-
-
 Tickertools 2016 Hackathon Projekt: Kontextmaschine
 
 Reporter arbeiten viel mit Zahlen, sowohl aus dem Inland als auch aus dem Ausland. Aber wie viel sind 4000 Rupien in Indien? Was bedeuten steigende Mieten für die finanzielle Lage von Menschen in Lissabon? Und wie haben sich die Lebenshaltungskosten in Berlin wirklich entwickelt? Als Journalisten wollen wir Zahlen möglichst vergleichen und lebensnah einordnen.
