@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>News 'n' Updates | Kontextmaschine</title>
+  <link href="http://dpa-newslab.github.io/kontextmaschine/feed.xml" rel="self"/>
+  <link href="http://dpa-newslab.github.io/kontextmaschine/"/>
+  <updated>2016-11-12T23:19:56+01:00</updated>
+  <id>http://dpa-newslab.github.io/kontextmaschine/</id>
+  <author>
+    <name>Martin Virtel &amp: Julia Kilian</name>
+  </author>
+  <generator>Jekyll v3.2.1</generator>
+
+  
+</feed>
