@@ -8,4 +8,10 @@ app/wages.json : wages.json
 
 
 build-website :
-	git checkout master && npm run build && tar cvzf /tmp/tmptar build/ && git checkout gh-pages && tar xvzf /tmp/tmptar build/ 
+	git checkout master && \
+	npm run build && \
+	export ch=$(git rev-parse HEAD) && \
+	tar czf /tmp/$ch build/ && \
+	git checkout gh-pages && \
+	tar xvf /tmp/$ch build/ && \
+	git commit build/ -m "built from commit $ch" 
