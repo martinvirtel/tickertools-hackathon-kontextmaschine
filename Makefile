@@ -15,9 +15,8 @@ build-website :
 		export ch=$$(git rev-parse HEAD) ; \
 		tar czf /tmp/$$ch build/ ; \
 		git checkout gh-pages ; \
-		tar xvf /tmp/$$ch build/ ; \
+		tar xvf /tmp/$$ch build/ && rm /tmp/$$ch ; \
 		git commit build/ -m "built from commit $$ch" ; \
-		rm /tmp/$$ch ;\
 		git checkout master \
 	) 
 
