@@ -1,5 +1,5 @@
 # Die Kontextmaschine
-Tickertools 2016 Hackathon Projekt: Kontextmaschine
+Tickertools 2016 Hackathon Projekt: Kontextmaschine 
 
 Reporter arbeiten viel mit Zahlen, sowohl aus dem Inland als auch aus dem Ausland. Aber wie viel sind 4000 Rupien in Indien? Was bedeuten steigende Mieten für die finanzielle Lage von Menschen in Lissabon? Und wie haben sich die Lebenshaltungskosten in Berlin wirklich entwickelt? Als Journalisten wollen wir Zahlen möglichst vergleichen und lebensnah einordnen.
 
@@ -13,4 +13,4 @@ Zahlen können nicht nur Aussagen stützen, sie können auch nüchtern Aussagen 
 
 ```In der brasilianischen Millionenmetropole São Paulo ist es zu gewalttätigen Auseinandersetzungen zwischen Demonstranten und Polizisten gekommen. Tausende Menschen protestierten, weil die Preise für Bustickets erhöht worden waren - *um umgerechnet rund 16 Euro-Cents auf 3,50 Reais.*``` 
 
-Der Kontextgenerator funktioniert nur, wenn er über entsprechend viele und verlässliche Daten verfügt. Denkbar wäre, etwa  Datensätze des Statistischen Bundesamtes oder der Europäischen Statistikbehörde Eurostat zu nutzen, um zum Beispeiel Sätze zur Arbeitslosenquote in Spanien oder der Wahlbeteiligung in einer deutschen Gemeinde schnell parat zu haben. Solche Sätze können Reportern den Arbeitsalltag wesentlich erleichtern. Für einen (etwas) schöneren Journalismus.  
+Der Kontextgenerator funktioniert nur, wenn er über entsprechend viele und verlässliche Daten verfügt. Denkbar wäre, etwa  Datensätze des Statistischen Bundesamtes oder der Europäischen Statistikbehörde Eurostat zu nutzen, um zum Beispeiel Sätze zur Arbeitslosenquote in Spanien oder der Wahlbeteiligung in einer deutschen Gemeinde schnell parat zu haben. Solche Sätze können Reportern den Arbeitsalltag wesentlich erleichtern. Für einen (etwas) schöneren Journalismus.
