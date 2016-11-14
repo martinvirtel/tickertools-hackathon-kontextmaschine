@@ -7,3 +7,5 @@ app/wages.json : wages.json
 		  < wages.json >app/wages.json
 
 
+build-website :
+	git checkout master && npm run build && tar cvzf /tmp/tmptar build/ && git checkout gh-pages && tar xvzf /tmp/tmptar build/ 
