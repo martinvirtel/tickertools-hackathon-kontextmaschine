@@ -17,6 +17,6 @@ build-website :
 		git checkout gh-pages && \
 		tar xvf /tmp/$$ch build/ && \
 		git commit build/ -m "built from commit $$ch" \
-		rm /tmp/$$ch
+		rm /tmp/$$ch \
 	) \
 
