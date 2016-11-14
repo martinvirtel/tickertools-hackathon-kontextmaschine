@@ -1,0 +1,126 @@
+{
+  "brasilien_reais": [
+    {
+      "name": "Skilled Industrial Worker",
+      "value": 22985.7
+    },
+    {
+      "name": "Secretary",
+      "value": 13080.3
+    },
+    {
+      "name": "Product Manager",
+      "value": 33689.5
+    },
+    {
+      "name": "Primary School Teacher",
+      "value": 9690.1
+    },
+    {
+      "name": "Nurse",
+      "value": 19970.4
+    },
+    {
+      "name": "Sales Assistant",
+      "value": 4218.4
+    },
+    {
+      "name": "Factory Worker",
+      "value": 4478.6
+    },
+    {
+      "name": "Electrical Engineer",
+      "value": 36006.2
+    },
+    {
+      "name": "Department Manager",
+      "value": 36872
+    },
+    {
+      "name": "Cook",
+      "value": 20260.2
+    },
+    {
+      "name": "Construction Worker",
+      "value": 7657.6
+    },
+    {
+      "name": "Automobile Mechanic",
+      "value": 7478.7
+    },
+    {
+      "name": "Call Center Agent",
+      "value": 3597.1
+    },
+    {
+      "name": "Bus Driver",
+      "value": 7679.9
+    },
+    {
+      "name": "Bank Credit Clerk",
+      "value": 13961.8
+    }
+  ],
+  "indien_rupien": [
+    {
+      "name": "Skilled Industrial Worker",
+      "value": 5044.6
+    },
+    {
+      "name": "Secretary",
+      "value": 5446.7
+    },
+    {
+      "name": "Product Manager",
+      "value": 22859.1
+    },
+    {
+      "name": "Primary School Teacher",
+      "value": 3445.6
+    },
+    {
+      "name": "Nurse",
+      "value": 5215.8
+    },
+    {
+      "name": "Sales Assistant",
+      "value": 4148.7
+    },
+    {
+      "name": "Factory Worker",
+      "value": 2791.1
+    },
+    {
+      "name": "Electrical Engineer",
+      "value": 11846.8
+    },
+    {
+      "name": "Department Manager",
+      "value": 16200.5
+    },
+    {
+      "name": "Cook",
+      "value": 12740.8
+    },
+    {
+      "name": "Construction Worker",
+      "value": 2086.5
+    },
+    {
+      "name": "Automobile Mechanic",
+      "value": 2017
+    },
+    {
+      "name": "Call Center Agent",
+      "value": 3239.4
+    },
+    {
+      "name": "Bus Driver",
+      "value": 3185.2
+    },
+    {
+      "name": "Bank Credit Clerk",
+      "value": 4965.7
+    }
+  ]
+}
