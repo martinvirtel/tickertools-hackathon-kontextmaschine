@@ -18,6 +18,6 @@ build-website :
 		tar xvf /tmp/$$ch build/ && \
 		git commit build/ -m "built from commit $$ch" ; \
 		rm /tmp/$$ch ;\
-		git checkout master 
-	) \
+		git checkout master \
+	) 
 
