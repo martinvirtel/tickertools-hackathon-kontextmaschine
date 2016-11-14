@@ -24,7 +24,8 @@ sass:
 permalink: /:title.html
 
 exclude:
-- README.md
+    - README.md
+    - node_modules
 
 
 safe: true
